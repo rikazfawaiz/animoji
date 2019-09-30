@@ -16,6 +16,12 @@ export default [
         animeName:"Sword Art Online",
         animeYear:2012,
         animeLink:"https://myanimelist.net/anime/11757/Sword_Art_Online"
+    },
+    {
+        animeEmoji:"🏈👦🏻😈" ,
+        animeName:"Eyeshield 21",
+        animeYear:2005,
+        animeLink:"https://myanimelist.net/anime/15/Eyeshield_21"
     }
 
 ]
